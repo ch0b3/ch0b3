@@ -14,3 +14,5 @@
     <img height="20" src="https://qiita-badge.apiapi.app/s/ch0b3/contributions.svg" />
   </a>
 </p>
+
+![Ch0b3's GitHub stats](https://github-readme-stats.vercel.app/api?username=ch0b3&theme=radical)
