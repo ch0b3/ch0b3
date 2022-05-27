@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Ch0b3</h1>
 <h3 align="center">A backend developer from Japan</h3>
 
-- 🌱 I’m currently learning **Golang, GraphQL, DDD**
+- I’m currently learning **Golang, GraphQL, DDD**
+- I'm a [Certified ScrumMaster® (CSM®)](https://bcert.me/bc/html/show-badge.html?b=ahazwpfe)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
