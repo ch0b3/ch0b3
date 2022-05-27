@@ -16,3 +16,5 @@
 </p>
 
 ![Ch0b3's GitHub stats](https://github-readme-stats.vercel.app/api?username=ch0b3&theme=radical)
+
+![trophy](https://github-profile-trophy.vercel.app/?username=ch0b3&theme=onedark)
