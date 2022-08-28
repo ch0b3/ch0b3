@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ch0b3</h1>
-<h3 align="center">A backend developer from Japan</h3>
+<h3 align="center">A Web Developer from Japan</h3>
 
 - I’m currently learning **Golang, GraphQL, DDD**
 - I'm a [Certified ScrumMaster® (CSM®)](https://bcert.me/bc/html/show-badge.html?b=ahazwpfe)
